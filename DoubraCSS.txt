@@ -1,0 +1,32 @@
+
+body{
+	font-family: Arial;
+	font-size: 12px;
+  margin: 10%
+ 
+    }
+#footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: #C1E3E1;
+  font-size: 8pt;
+   bottom:0px;
+  padding:20px;
+  z-index:999
+  }  
+    h3
+{
+    text-decoration: underline;
+    }
+      
+#img
+{
+  Border radius:50px;
+  
+  
+  }
+.circular--square {
+  border-radius: 50%;
+}
